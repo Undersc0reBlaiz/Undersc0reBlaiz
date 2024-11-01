@@ -1,0 +1,6 @@
+Name,Faction,Type,Behaviour,Hostility,Climate,Height
+Mole,Mole Empire,Melee,Turret,Hostile,Mild-Warm,0-400
+Scuttler,N/A,Melee,Mobile,Hostile,Cool-Warm,0-400
+Crystal Golem,Crystal Kingdom,Tank,Mobile,Neutral,Cool-Warm,50-350
+Bat,N/A,Melee,Flying,Hostile,Mild-Warm,50-500
+Crystal Sentry,Crystal Kingdom,Ranged,Mobile,Hostile,Cool-Warm,0-350
