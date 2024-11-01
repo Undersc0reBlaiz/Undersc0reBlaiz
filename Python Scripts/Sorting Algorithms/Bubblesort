@@ -1,0 +1,12 @@
+deck = [5, 7, 1, 9, 2, 8, 12, 11, 4, 3, 10, 6]
+n = 0
+for i in range(len(deck)-1):
+    for n in range(len(deck)-1):
+        if deck[n] > deck[n+1]:
+            m = deck[n+1]
+            deck[n+1] = deck[n]
+            deck[n] = m
+        else:
+            pass
+    n+=1
+print(deck)
